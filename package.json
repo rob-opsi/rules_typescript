@@ -29,7 +29,7 @@
         "protractor": "^5.2.0",
         "requirejs": "2.3.5",
         "semver": "5.6.0",
-        "shelljs": "^0.8.2",
+        "shelljs": "^0.8.5",
         "source-map-support": "0.5.9",
         "tmp": "0.0.33",
         "tsickle": "0.38.0",
