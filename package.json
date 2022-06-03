@@ -25,7 +25,7 @@
         "karma-requirejs": "1.1.0",
         "karma-sauce-launcher": "2.0.2",
         "karma-sourcemap-loader": "0.3.7",
-        "protobufjs": "6.8.8",
+        "protobufjs": "6.11.3",
         "protractor": "^5.2.0",
         "requirejs": "2.3.5",
         "semver": "5.6.0",
